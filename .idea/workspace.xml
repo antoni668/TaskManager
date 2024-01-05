@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc5fc056-f939-4080-a3f7-434dcce70bdd" name="Changes" comment="" />
+    <list default="true" id="cc5fc056-f939-4080-a3f7-434dcce70bdd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test/factories/sequence.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/factories/users.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +22,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/models/user_test.rb" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,6 +47,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;ruby.structure.view.model.defaults.configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -52,7 +61,7 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
@@ -76,7 +85,7 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
@@ -103,7 +112,7 @@
         <env name="RAILS_ENV" value="test" />
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
@@ -133,7 +142,11 @@
       <workItem from="1704227254634" duration="292000" />
       <workItem from="1704227583015" duration="7000" />
       <workItem from="1704277638883" duration="2593000" />
-      <workItem from="1704282069336" duration="3001000" />
+      <workItem from="1704282069336" duration="8197000" />
+      <workItem from="1704344718733" duration="2402000" />
+      <workItem from="1704369795199" duration="1477000" />
+      <workItem from="1704395573418" duration="3385000" />
+      <workItem from="1704441667199" duration="1613000" />
     </task>
     <servers />
   </component>
