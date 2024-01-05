@@ -1,9 +1,13 @@
 FactoryBot.define do
+  sequence :email do |n|
+    "user#{n}@example.com"
+  end
+
   factory :user do
     first_name
     last_name
     password
-    email { "MyString" }
+    email
     avatar { "MyString" }
     type { "" }
 
@@ -17,10 +21,6 @@ FactoryBot.define do
 
     factory :manager do
       type { "Manager" }
-    end
-
-    factory :task do
-      type { "Task" }
     end
   end
 end
