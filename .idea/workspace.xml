@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc5fc056-f939-4080-a3f7-434dcce70bdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/controllers/concerns/auth_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/web/developers_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/web/developers/new.html.slim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/web/developers_controller_test.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/web/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/web/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.slim" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +146,7 @@
       <workItem from="1704395573418" duration="3385000" />
       <workItem from="1704441667199" duration="10181000" />
       <workItem from="1704556507685" duration="9531000" />
-      <workItem from="1704620698551" duration="8156000" />
+      <workItem from="1704620698551" duration="13582000" />
     </task>
     <servers />
   </component>
