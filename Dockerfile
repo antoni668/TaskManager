@@ -7,6 +7,9 @@ RUN apk update \
     && apk upgrade \
     && apk add --update --no-cache $PACKAGES
 
+RUN curl -sL https://deb.nodesource.com/setup_14.x | sh -
+RUN apk add --update --no-cache nodejs yarn
+
 RUN gem install bundler:2.1.4
 
 RUN mkdir $RAILS_ROOT
