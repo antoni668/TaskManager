@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc5fc056-f939-4080-a3f7-434dcce70bdd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/controllers/web/application_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/TaskManager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TaskManager.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/task.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/task.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/factories/tasks.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/factories/tasks.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +150,8 @@
       <workItem from="1704369795199" duration="1477000" />
       <workItem from="1704395573418" duration="3385000" />
       <workItem from="1704441667199" duration="10181000" />
-      <workItem from="1704556507685" duration="1956000" />
+      <workItem from="1704556507685" duration="9531000" />
+      <workItem from="1704620698551" duration="2296000" />
     </task>
     <servers />
   </component>
